@@ -1,0 +1,8239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.57821666694912,
+              36.317916666606195
+            ],
+            [
+              137.5782152223671,
+              36.317946071748295
+            ],
+            [
+              137.57821090253321,
+              36.3179751937028
+            ],
+            [
+              137.57820374904983,
+              36.31800375200937
+            ],
+            [
+              137.57819383080886,
+              36.318031471635905
+            ],
+            [
+              137.5781812433284,
+              36.31805808562724
+            ],
+            [
+              137.5781661078328,
+              36.3180833376761
+            ],
+            [
+              137.57814857008512,
+              36.318106984591445
+            ],
+            [
+              137.57812879898347,
+              36.31812879864055
+            ],
+            [
+              137.57810698493435,
+              36.318148569742206
+            ],
+            [
+              137.578083338019,
+              36.31816610748989
+            ],
+            [
+              137.57805808597016,
+              36.318181242985496
+            ],
+            [
+              137.57803147197882,
+              36.31819383046595
+            ],
+            [
+              137.5780037523523,
+              36.318203748706914
+            ],
+            [
+              137.5779751940457,
+              36.318210902190316
+            ],
+            [
+              137.5779460720912,
+              36.31821522202419
+            ],
+            [
+              137.5779166669491,
+              36.3182166666062
+            ],
+            [
+              137.577887261807,
+              36.31821522202419
+            ],
+            [
+              137.5778581398525,
+              36.318210902190316
+            ],
+            [
+              137.57782958154593,
+              36.318203748706914
+            ],
+            [
+              137.5778018619194,
+              36.31819383046595
+            ],
+            [
+              137.57777524792806,
+              36.318181242985496
+            ],
+            [
+              137.5777499958792,
+              36.31816610748989
+            ],
+            [
+              137.57772634896386,
+              36.318148569742206
+            ],
+            [
+              137.57770453491474,
+              36.31812879864055
+            ],
+            [
+              137.5776847638131,
+              36.318106984591445
+            ],
+            [
+              137.57766722606542,
+              36.3180833376761
+            ],
+            [
+              137.5776520905698,
+              36.31805808562724
+            ],
+            [
+              137.57763950308936,
+              36.318031471635905
+            ],
+            [
+              137.57762958484838,
+              36.31800375200937
+            ],
+            [
+              137.577622431365,
+              36.3179751937028
+            ],
+            [
+              137.5776181115311,
+              36.317946071748295
+            ],
+            [
+              137.5776166669491,
+              36.317916666606195
+            ],
+            [
+              137.5776181115311,
+              36.317887261464094
+            ],
+            [
+              137.577622431365,
+              36.31785813950959
+            ],
+            [
+              137.57762958484838,
+              36.31782958120302
+            ],
+            [
+              137.57763950308936,
+              36.317801861576484
+            ],
+            [
+              137.5776520905698,
+              36.317775247585146
+            ],
+            [
+              137.57766722606542,
+              36.31774999553629
+            ],
+            [
+              137.5776847638131,
+              36.317726348620944
+            ],
+            [
+              137.57770453491474,
+              36.31770453457184
+            ],
+            [
+              137.57772634896386,
+              36.31768476347018
+            ],
+            [
+              137.5777499958792,
+              36.3176672257225
+            ],
+            [
+              137.57777524792806,
+              36.31765209022689
+            ],
+            [
+              137.5778018619194,
+              36.31763950274644
+            ],
+            [
+              137.57782958154593,
+              36.317629584505475
+            ],
+            [
+              137.5778581398525,
+              36.31762243102207
+            ],
+            [
+              137.577887261807,
+              36.317618111188196
+            ],
+            [
+              137.5779166669491,
+              36.31761666660619
+            ],
+            [
+              137.5779460720912,
+              36.317618111188196
+            ],
+            [
+              137.5779751940457,
+              36.31762243102207
+            ],
+            [
+              137.5780037523523,
+              36.317629584505475
+            ],
+            [
+              137.57803147197882,
+              36.31763950274644
+            ],
+            [
+              137.57805808597016,
+              36.31765209022689
+            ],
+            [
+              137.578083338019,
+              36.3176672257225
+            ],
+            [
+              137.57810698493435,
+              36.31768476347018
+            ],
+            [
+              137.57812879898347,
+              36.31770453457184
+            ],
+            [
+              137.57814857008512,
+              36.317726348620944
+            ],
+            [
+              137.5781661078328,
+              36.31774999553629
+            ],
+            [
+              137.5781812433284,
+              36.317775247585146
+            ],
+            [
+              137.57819383080886,
+              36.317801861576484
+            ],
+            [
+              137.57820374904983,
+              36.31782958120302
+            ],
+            [
+              137.57821090253321,
+              36.31785813950959
+            ],
+            [
+              137.5782152223671,
+              36.317887261464094
+            ],
+            [
+              137.57821666694912,
+              36.317916666606195
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "pixel_x": 90.0,
+        "pixel_y": 61.0,
+        "name": "Kasagadake Echo Point",
+        "radius_m": 0.00030000000000000003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.57180555582335,
+          36.3229166666239
+        ]
+      },
+      "properties": {
+        "pixel_x": 68,
+        "pixel_y": 43,
+        "name": "Reflection Point",
+        "cluster": 0,
+        "delay_s": 5.011961704505649,
+        "delay_str": "5.0秒",
+        "angle_xy": 309.28940686250036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.57180555582335,
+            36.3229166666239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 68,
+        "position_y": 43,
+        "delay_s": 5.011961704505649,
+        "delay_str": "5.0秒",
+        "angle_xy": 309.28940686250036,
+        "cluster": 0,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5720833336018,
+          36.3229166666239
+        ]
+      },
+      "properties": {
+        "pixel_x": 69,
+        "pixel_y": 43,
+        "name": "Reflection Point",
+        "cluster": 0,
+        "delay_s": 4.876775698118427,
+        "delay_str": "4.9秒",
+        "angle_xy": 310.6012946450045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5720833336018,
+            36.3229166666239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 69,
+        "position_y": 43,
+        "delay_s": 4.876775698118427,
+        "delay_str": "4.9秒",
+        "angle_xy": 310.6012946450045,
+        "cluster": 0,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.57180555582335,
+          36.322638888845134
+        ]
+      },
+      "properties": {
+        "pixel_x": 68,
+        "pixel_y": 44,
+        "name": "Reflection Point",
+        "cluster": 1,
+        "delay_s": 4.902208859898737,
+        "delay_str": "4.9秒",
+        "angle_xy": 307.69424046668917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.57180555582335,
+            36.322638888845134
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 68,
+        "position_y": 44,
+        "delay_s": 4.902208859898737,
+        "delay_str": "4.9秒",
+        "angle_xy": 307.69424046668917,
+        "cluster": 1,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5720833336018,
+          36.322638888845134
+        ]
+      },
+      "properties": {
+        "pixel_x": 69,
+        "pixel_y": 44,
+        "name": "Reflection Point",
+        "cluster": 1,
+        "delay_s": 4.763909401783054,
+        "delay_str": "4.8秒",
+        "angle_xy": 308.99099404250546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5720833336018,
+            36.322638888845134
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 69,
+        "position_y": 44,
+        "delay_s": 4.763909401783054,
+        "delay_str": "4.8秒",
+        "angle_xy": 308.99099404250546,
+        "cluster": 1,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.57180555582335,
+          36.32236111106637
+        ]
+      },
+      "properties": {
+        "pixel_x": 68,
+        "pixel_y": 45,
+        "name": "Reflection Point",
+        "cluster": 2,
+        "delay_s": 4.796427932199751,
+        "delay_str": "4.8秒",
+        "angle_xy": 306.0273733851036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.57180555582335,
+            36.32236111106637
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 68,
+        "position_y": 45,
+        "delay_s": 4.796427932199751,
+        "delay_str": "4.8秒",
+        "angle_xy": 306.0273733851036,
+        "cluster": 2,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56736111136826,
+          36.31902777772124
+        ]
+      },
+      "properties": {
+        "pixel_x": 52,
+        "pixel_y": 57,
+        "name": "Reflection Point",
+        "cluster": 3,
+        "delay_s": 6.737185285918292,
+        "delay_str": "6.7秒",
+        "angle_xy": 276.00900595749454
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56736111136826,
+            36.31902777772124
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 52,
+        "position_y": 57,
+        "delay_s": 6.737185285918292,
+        "delay_str": "6.7秒",
+        "angle_xy": 276.00900595749454,
+        "cluster": 3,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56708333358984,
+          36.318749999942476
+        ]
+      },
+      "properties": {
+        "pixel_x": 51,
+        "pixel_y": 58,
+        "name": "Reflection Point",
+        "cluster": 3,
+        "delay_s": 6.896802332930598,
+        "delay_str": "6.9秒",
+        "angle_xy": 274.3987053549955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56708333358984,
+            36.318749999942476
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 51,
+        "position_y": 58,
+        "delay_s": 6.896802332930598,
+        "delay_str": "6.9秒",
+        "angle_xy": 274.3987053549955,
+        "cluster": 3,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56736111136826,
+          36.318749999942476
+        ]
+      },
+      "properties": {
+        "pixel_x": 52,
+        "pixel_y": 58,
+        "name": "Reflection Point",
+        "cluster": 3,
+        "delay_s": 6.721015093906698,
+        "delay_str": "6.7秒",
+        "angle_xy": 274.5139884580013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56736111136826,
+            36.318749999942476
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 52,
+        "position_y": 58,
+        "delay_s": 6.721015093906698,
+        "delay_str": "6.7秒",
+        "angle_xy": 274.5139884580013,
+        "cluster": 3,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5681944447036,
+          36.31847222216372
+        ]
+      },
+      "properties": {
+        "pixel_x": 55,
+        "pixel_y": 59,
+        "name": "Reflection Point",
+        "cluster": 4,
+        "delay_s": 6.181274140159782,
+        "delay_str": "6.2秒",
+        "angle_xy": 273.27048792318357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5681944447036,
+            36.31847222216372
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 55,
+        "position_y": 59,
+        "delay_s": 6.181274140159782,
+        "delay_str": "6.2秒",
+        "angle_xy": 273.27048792318357,
+        "cluster": 4,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.31819444438496
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 60,
+        "name": "Reflection Point",
+        "cluster": 5,
+        "delay_s": 9.170345498683483,
+        "delay_str": "9.2秒",
+        "angle_xy": 271.10170611520635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.31819444438496
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 60,
+        "delay_s": 9.170345498683483,
+        "delay_str": "9.2秒",
+        "angle_xy": 271.10170611520635,
+        "cluster": 5,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.31819444438496
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 60,
+        "name": "Reflection Point",
+        "cluster": 5,
+        "delay_s": 8.994058534678198,
+        "delay_str": "9.0秒",
+        "angle_xy": 271.1233027140754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.31819444438496
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 60,
+        "delay_s": 8.994058534678198,
+        "delay_str": "9.0秒",
+        "angle_xy": 271.1233027140754,
+        "cluster": 5,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.31819444438496
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 60,
+        "name": "Reflection Point",
+        "cluster": 5,
+        "delay_s": 8.817772899620902,
+        "delay_str": "8.8秒",
+        "angle_xy": 271.1457628381751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.31819444438496
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 60,
+        "delay_s": 8.817772899620902,
+        "delay_str": "8.8秒",
+        "angle_xy": 271.1457628381751,
+        "cluster": 5,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56736111136826,
+          36.31819444438496
+        ]
+      },
+      "properties": {
+        "pixel_x": 52,
+        "pixel_y": 60,
+        "name": "Reflection Point",
+        "cluster": 6,
+        "delay_s": 6.702487105262527,
+        "delay_str": "6.7秒",
+        "angle_xy": 271.507435758775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56736111136826,
+            36.31819444438496
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 52,
+        "position_y": 60,
+        "delay_s": 6.702487105262527,
+        "delay_str": "6.7秒",
+        "angle_xy": 271.507435758775,
+        "cluster": 6,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56736111136826,
+          36.317916666606195
+        ]
+      },
+      "properties": {
+        "pixel_x": 52,
+        "pixel_y": 61,
+        "name": "Reflection Point",
+        "cluster": 6,
+        "delay_s": 6.700167504187604,
+        "delay_str": "6.7秒",
+        "angle_xy": 270.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56736111136826,
+            36.317916666606195
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 52,
+        "position_y": 61,
+        "delay_s": 6.700167504187604,
+        "delay_str": "6.7秒",
+        "angle_xy": 270.0,
+        "cluster": 6,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5676388891467,
+          36.317916666606195
+        ]
+      },
+      "properties": {
+        "pixel_x": 53,
+        "pixel_y": 61,
+        "name": "Reflection Point",
+        "cluster": 6,
+        "delay_s": 6.5238473067089835,
+        "delay_str": "6.5秒",
+        "angle_xy": 270.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5676388891467,
+            36.317916666606195
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 53,
+        "position_y": 61,
+        "delay_s": 6.5238473067089835,
+        "delay_str": "6.5秒",
+        "angle_xy": 270.0,
+        "cluster": 6,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.31763888882743
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 62,
+        "name": "Reflection Point",
+        "cluster": 7,
+        "delay_s": 8.288924816040314,
+        "delay_str": "8.3秒",
+        "angle_xy": 268.7811247648687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.31763888882743
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 62,
+        "delay_s": 8.288924816040314,
+        "delay_str": "8.3秒",
+        "angle_xy": 268.7811247648687,
+        "cluster": 7,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31763888882743
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 62,
+        "name": "Reflection Point",
+        "cluster": 7,
+        "delay_s": 8.112645381523294,
+        "delay_str": "8.1秒",
+        "angle_xy": 268.7546357332317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31763888882743
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 62,
+        "delay_s": 8.112645381523294,
+        "delay_str": "8.1秒",
+        "angle_xy": 268.7546357332317,
+        "cluster": 7,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56736111136826,
+          36.31763888882743
+        ]
+      },
+      "properties": {
+        "pixel_x": 52,
+        "pixel_y": 62,
+        "name": "Reflection Point",
+        "cluster": 6,
+        "delay_s": 6.702487105262527,
+        "delay_str": "6.7秒",
+        "angle_xy": 268.492564241225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56736111136826,
+            36.31763888882743
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 52,
+        "position_y": 62,
+        "delay_s": 6.702487105262527,
+        "delay_str": "6.7秒",
+        "angle_xy": 268.492564241225,
+        "cluster": 6,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5676388891467,
+          36.31763888882743
+        ]
+      },
+      "properties": {
+        "pixel_x": 53,
+        "pixel_y": 62,
+        "name": "Reflection Point",
+        "cluster": 6,
+        "delay_s": 6.526229577121306,
+        "delay_str": "6.5秒",
+        "angle_xy": 268.451842301022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5676388891467,
+            36.31763888882743
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 53,
+        "position_y": 62,
+        "delay_s": 6.526229577121306,
+        "delay_str": "6.5秒",
+        "angle_xy": 268.451842301022,
+        "cluster": 6,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5676388891467,
+          36.317361111048676
+        ]
+      },
+      "properties": {
+        "pixel_x": 53,
+        "pixel_y": 63,
+        "name": "Reflection Point",
+        "cluster": 6,
+        "delay_s": 6.533371176460868,
+        "delay_str": "6.5秒",
+        "angle_xy": 266.9059419410829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5676388891467,
+            36.317361111048676
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 53,
+        "position_y": 63,
+        "delay_s": 6.533371176460868,
+        "delay_str": "6.5秒",
+        "angle_xy": 266.9059419410829,
+        "cluster": 6,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56791666692516,
+          36.317361111048676
+        ]
+      },
+      "properties": {
+        "pixel_x": 54,
+        "pixel_y": 63,
+        "name": "Reflection Point",
+        "cluster": 6,
+        "delay_s": 6.35731512909105,
+        "delay_str": "6.4秒",
+        "angle_xy": 266.8201698801358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56791666692516,
+            36.317361111048676
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 54,
+        "position_y": 63,
+        "delay_s": 6.35731512909105,
+        "delay_str": "6.4秒",
+        "angle_xy": 266.8201698801358,
+        "cluster": 6,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56930555581738,
+          36.317361111048676
+        ]
+      },
+      "properties": {
+        "pixel_x": 59,
+        "pixel_y": 63,
+        "name": "Reflection Point",
+        "cluster": 8,
+        "delay_s": 5.47728980587466,
+        "delay_str": "5.5秒",
+        "angle_xy": 266.3086140135487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56930555581738,
+            36.317361111048676
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 59,
+        "position_y": 63,
+        "delay_s": 5.47728980587466,
+        "delay_str": "5.5秒",
+        "angle_xy": 266.3086140135487,
+        "cluster": 8,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56458333358384,
+          36.31680555549115
+        ]
+      },
+      "properties": {
+        "pixel_x": 42,
+        "pixel_y": 65,
+        "name": "Reflection Point",
+        "cluster": 9,
+        "delay_s": 8.492705336360608,
+        "delay_str": "8.5秒",
+        "angle_xy": 265.23635830927384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56458333358384,
+            36.31680555549115
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 42,
+        "position_y": 65,
+        "delay_s": 8.492705336360608,
+        "delay_str": "8.5秒",
+        "angle_xy": 265.23635830927384,
+        "cluster": 9,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.31680555549115
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 65,
+        "name": "Reflection Point",
+        "cluster": 9,
+        "delay_s": 8.317007081069033,
+        "delay_str": "8.3秒",
+        "angle_xy": 265.13548556223947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.31680555549115
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 65,
+        "delay_s": 8.317007081069033,
+        "delay_str": "8.3秒",
+        "angle_xy": 265.13548556223947,
+        "cluster": 9,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31680555549115
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 65,
+        "name": "Reflection Point",
+        "cluster": 9,
+        "delay_s": 8.141335717616288,
+        "delay_str": "8.1秒",
+        "angle_xy": 265.0302592718897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31680555549115
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 65,
+        "delay_s": 8.141335717616288,
+        "delay_str": "8.1秒",
+        "angle_xy": 265.0302592718897,
+        "cluster": 9,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5681944447036,
+          36.31680555549115
+        ]
+      },
+      "properties": {
+        "pixel_x": 55,
+        "pixel_y": 65,
+        "name": "Reflection Point",
+        "cluster": 10,
+        "delay_s": 6.211377926054318,
+        "delay_str": "6.2秒",
+        "angle_xy": 263.480198248343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5681944447036,
+            36.31680555549115
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 55,
+        "position_y": 65,
+        "delay_s": 6.211377926054318,
+        "delay_str": "6.2秒",
+        "angle_xy": 263.480198248343,
+        "cluster": 10,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5623611113563,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 34,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.913210118572227,
+        "delay_str": "9.9秒",
+        "angle_xy": 264.8978347476418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5623611113563,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 34,
+        "position_y": 66,
+        "delay_s": 9.913210118572227,
+        "delay_str": "9.9秒",
+        "angle_xy": 264.8978347476418,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.56201841696641,
+        "delay_str": "9.6秒",
+        "angle_xy": 264.7099187946287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 66,
+        "delay_s": 9.56201841696641,
+        "delay_str": "9.6秒",
+        "angle_xy": 264.7099187946287,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.386463301917422,
+        "delay_str": "9.4秒",
+        "angle_xy": 264.6106882400266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 66,
+        "delay_s": 9.386463301917422,
+        "delay_str": "9.4秒",
+        "angle_xy": 264.6106882400266,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.210937414517483,
+        "delay_str": "9.2秒",
+        "angle_xy": 264.5076754428726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 66,
+        "delay_s": 9.210937414517483,
+        "delay_str": "9.2秒",
+        "angle_xy": 264.5076754428726,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.8080189810401235,
+        "delay_str": "7.8秒",
+        "angle_xy": 263.5169263071028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 66,
+        "delay_s": 7.8080189810401235,
+        "delay_str": "7.8秒",
+        "angle_xy": 263.5169263071028,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56597222247606,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 47,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.6328522690340685,
+        "delay_str": "7.6秒",
+        "angle_xy": 263.36748538486154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56597222247606,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 47,
+        "position_y": 66,
+        "delay_s": 7.6328522690340685,
+        "delay_str": "7.6秒",
+        "angle_xy": 263.36748538486154,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56625000025448,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 48,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.457739921557471,
+        "delay_str": "7.5秒",
+        "angle_xy": 263.2110254255612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56625000025448,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 48,
+        "position_y": 66,
+        "delay_s": 7.457739921557471,
+        "delay_str": "7.5秒",
+        "angle_xy": 263.2110254255612,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.57125000026647,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 66,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 12,
+        "delay_s": 4.322542774268276,
+        "delay_str": "4.3秒",
+        "angle_xy": 258.23171106797935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.57125000026647,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 66,
+        "position_y": 66,
+        "delay_s": 4.322542774268276,
+        "delay_str": "4.3秒",
+        "angle_xy": 258.23171106797935,
+        "cluster": 12,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.57152777804492,
+          36.31652777771239
+        ]
+      },
+      "properties": {
+        "pixel_x": 67,
+        "pixel_y": 66,
+        "name": "Reflection Point",
+        "cluster": 12,
+        "delay_s": 4.150084561734927,
+        "delay_str": "4.2秒",
+        "angle_xy": 257.7352262721076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.57152777804492,
+            36.31652777771239
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 67,
+        "position_y": 66,
+        "delay_s": 4.150084561734927,
+        "delay_str": "4.2秒",
+        "angle_xy": 257.7352262721076,
+        "cluster": 12,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5623611113563,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 34,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.930443685323969,
+        "delay_str": "9.9秒",
+        "angle_xy": 263.8844964337146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5623611113563,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 34,
+        "position_y": 67,
+        "delay_s": 9.930443685323969,
+        "delay_str": "9.9秒",
+        "angle_xy": 263.8844964337146,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56263888913475,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 35,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.755144983600848,
+        "delay_str": "9.8秒",
+        "angle_xy": 263.77417093557426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56263888913475,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 35,
+        "position_y": 67,
+        "delay_s": 9.755144983600848,
+        "delay_str": "9.8秒",
+        "angle_xy": 263.77417093557426,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.579883774808163,
+        "delay_str": "9.6秒",
+        "angle_xy": 263.6598082540901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 67,
+        "delay_s": 9.579883774808163,
+        "delay_str": "9.6秒",
+        "angle_xy": 263.6598082540901,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.404662155052163,
+        "delay_str": "9.4秒",
+        "angle_xy": 263.54118362128133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 67,
+        "delay_s": 9.404662155052163,
+        "delay_str": "9.4秒",
+        "angle_xy": 263.54118362128133,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.22948237912538,
+        "delay_str": "9.2秒",
+        "angle_xy": 263.418055344822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 67,
+        "delay_s": 9.22948237912538,
+        "delay_str": "9.2秒",
+        "angle_xy": 263.418055344822,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.054346875759688,
+        "delay_str": "9.1秒",
+        "angle_xy": 263.2901631922431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 67,
+        "delay_s": 9.054346875759688,
+        "delay_str": "9.1秒",
+        "angle_xy": 263.2901631922431,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.87925826466661,
+        "delay_str": "8.9秒",
+        "angle_xy": 263.15722658736905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 67,
+        "delay_s": 8.87925826466661,
+        "delay_str": "8.9秒",
+        "angle_xy": 263.15722658736905,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.354303264026894,
+        "delay_str": "8.4秒",
+        "angle_xy": 262.7249950421108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 67,
+        "delay_s": 8.354303264026894,
+        "delay_str": "8.4秒",
+        "angle_xy": 262.7249950421108,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.179432957590198,
+        "delay_str": "8.2秒",
+        "angle_xy": 262.5685920288275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 67,
+        "delay_s": 8.179432957590198,
+        "delay_str": "8.2秒",
+        "angle_xy": 262.5685920288275,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.004626263116402,
+        "delay_str": "8.0秒",
+        "angle_xy": 262.40535663140855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 67,
+        "delay_s": 8.004626263116402,
+        "delay_str": "8.0秒",
+        "angle_xy": 262.40535663140855,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.829887441126516,
+        "delay_str": "7.8秒",
+        "angle_xy": 262.23483398157464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 67,
+        "delay_s": 7.829887441126516,
+        "delay_str": "7.8秒",
+        "angle_xy": 262.23483398157464,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56597222247606,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 47,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.655221139413703,
+        "delay_str": "7.7秒",
+        "angle_xy": 262.0565281894096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56597222247606,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 47,
+        "position_y": 67,
+        "delay_s": 7.655221139413703,
+        "delay_str": "7.7秒",
+        "angle_xy": 262.0565281894096,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56625000025448,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 48,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.480632437837054,
+        "delay_str": "7.5秒",
+        "angle_xy": 261.86989764584405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56625000025448,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 48,
+        "position_y": 67,
+        "delay_s": 7.480632437837054,
+        "delay_str": "7.5秒",
+        "angle_xy": 261.86989764584405,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56652777803293,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 49,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.306126899444823,
+        "delay_str": "7.3秒",
+        "angle_xy": 261.6743496695732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56652777803293,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 49,
+        "position_y": 67,
+        "delay_s": 7.306126899444823,
+        "delay_str": "7.3秒",
+        "angle_xy": 261.6743496695732,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.57097222248802,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 65,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 12,
+        "delay_s": 4.53317821817242,
+        "delay_str": "4.5秒",
+        "angle_xy": 256.50426671920417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.57097222248802,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 65,
+        "position_y": 67,
+        "delay_s": 4.53317821817242,
+        "delay_str": "4.5秒",
+        "angle_xy": 256.50426671920417,
+        "cluster": 12,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.57152777804492,
+          36.31624999993363
+        ]
+      },
+      "properties": {
+        "pixel_x": 67,
+        "pixel_y": 67,
+        "name": "Reflection Point",
+        "cluster": 13,
+        "delay_s": 4.19108324923026,
+        "delay_str": "4.2秒",
+        "angle_xy": 255.37912601136833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.57152777804492,
+            36.31624999993363
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 67,
+        "position_y": 67,
+        "delay_s": 4.19108324923026,
+        "delay_str": "4.2秒",
+        "angle_xy": 255.37912601136833,
+        "cluster": 13,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5623611113563,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 34,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.950772148124807,
+        "delay_str": "10.0秒",
+        "angle_xy": 262.8749836510982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5623611113563,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 34,
+        "position_y": 68,
+        "delay_s": 9.950772148124807,
+        "delay_str": "10.0秒",
+        "angle_xy": 262.8749836510982,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56263888913475,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 35,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.775837979814238,
+        "delay_str": "9.8秒",
+        "angle_xy": 262.74680538727466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56263888913475,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 35,
+        "position_y": 68,
+        "delay_s": 9.775837979814238,
+        "delay_str": "9.8秒",
+        "angle_xy": 262.74680538727466,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.600954520011976,
+        "delay_str": "9.6秒",
+        "angle_xy": 262.61395684873276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 68,
+        "delay_s": 9.600954520011976,
+        "delay_str": "9.6秒",
+        "angle_xy": 262.61395684873276,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.426124591112517,
+        "delay_str": "9.4秒",
+        "angle_xy": 262.4761795613614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 68,
+        "delay_s": 9.426124591112517,
+        "delay_str": "9.4秒",
+        "angle_xy": 262.4761795613614,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.25135122796079,
+        "delay_str": "9.3秒",
+        "angle_xy": 262.33319573818585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 68,
+        "delay_s": 9.25135122796079,
+        "delay_str": "9.3秒",
+        "angle_xy": 262.33319573818585,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.07663769812836,
+        "delay_str": "9.1秒",
+        "angle_xy": 262.1847064532331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 68,
+        "delay_s": 9.07663769812836,
+        "delay_str": "9.1秒",
+        "angle_xy": 262.1847064532331,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.901987524545067,
+        "delay_str": "8.9秒",
+        "angle_xy": 262.03038960567864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 68,
+        "delay_s": 8.901987524545067,
+        "delay_str": "8.9秒",
+        "angle_xy": 262.03038960567864,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.378456754309598,
+        "delay_str": "8.4秒",
+        "angle_xy": 261.52885536698517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 68,
+        "delay_s": 8.378456754309598,
+        "delay_str": "8.4秒",
+        "angle_xy": 261.52885536698517,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.204101295341156,
+        "delay_str": "8.2秒",
+        "angle_xy": 261.34745820888526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 68,
+        "delay_s": 8.204101295341156,
+        "delay_str": "8.2秒",
+        "angle_xy": 261.34745820888526,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.029831640120392,
+        "delay_str": "8.0秒",
+        "angle_xy": 261.15818543980834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 68,
+        "delay_s": 8.029831640120392,
+        "delay_str": "8.0秒",
+        "angle_xy": 261.15818543980834,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.855653499055087,
+        "delay_str": "7.9秒",
+        "angle_xy": 260.9605171966449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 68,
+        "delay_s": 7.855653499055087,
+        "delay_str": "7.9秒",
+        "angle_xy": 260.9605171966449,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56597222247606,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 47,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.681573097343548,
+        "delay_str": "7.7秒",
+        "angle_xy": 260.75388725443673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56597222247606,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 47,
+        "position_y": 68,
+        "delay_s": 7.681573097343548,
+        "delay_str": "7.7秒",
+        "angle_xy": 260.75388725443673,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56652777803293,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 49,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.333733348526993,
+        "delay_str": "7.3秒",
+        "angle_xy": 260.3112134396332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56652777803293,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 49,
+        "position_y": 68,
+        "delay_s": 7.333733348526993,
+        "delay_str": "7.3秒",
+        "angle_xy": 260.3112134396332,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56680555581138,
+          36.31597222215487
+        ]
+      },
+      "properties": {
+        "pixel_x": 50,
+        "pixel_y": 68,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.159989598605995,
+        "delay_str": "7.2秒",
+        "angle_xy": 260.0737544933483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56680555581138,
+            36.31597222215487
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 50,
+        "position_y": 68,
+        "delay_s": 7.159989598605995,
+        "delay_str": "7.2秒",
+        "angle_xy": 260.0737544933483,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5623611113563,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 34,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.974176583782738,
+        "delay_str": "10.0秒",
+        "angle_xy": 261.86989764584405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5623611113563,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 34,
+        "position_y": 69,
+        "delay_s": 9.974176583782738,
+        "delay_str": "10.0秒",
+        "angle_xy": 261.86989764584405,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56263888913475,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 35,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.799660217995417,
+        "delay_str": "9.8秒",
+        "angle_xy": 261.7241071729248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56263888913475,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 35,
+        "position_y": 69,
+        "delay_s": 9.799660217995417,
+        "delay_str": "9.8秒",
+        "angle_xy": 261.7241071729248,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.62520960166177,
+        "delay_str": "9.6秒",
+        "angle_xy": 261.57303097851934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 69,
+        "delay_s": 9.62520960166177,
+        "delay_str": "9.6秒",
+        "angle_xy": 261.57303097851934,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.450828375743557,
+        "delay_str": "9.5秒",
+        "angle_xy": 261.41637851988605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 69,
+        "delay_s": 9.450828375743557,
+        "delay_str": "9.5秒",
+        "angle_xy": 261.41637851988605,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.2765204534715,
+        "delay_str": "9.3秒",
+        "angle_xy": 261.25383773744477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 69,
+        "delay_s": 9.2765204534715,
+        "delay_str": "9.3秒",
+        "angle_xy": 261.25383773744477,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.102290046118528,
+        "delay_str": "9.1秒",
+        "angle_xy": 261.0850730428521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 69,
+        "delay_s": 9.102290046118528,
+        "delay_str": "9.1秒",
+        "angle_xy": 261.0850730428521,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.928141691737398,
+        "delay_str": "8.9秒",
+        "angle_xy": 260.9097230791777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 69,
+        "delay_s": 8.928141691737398,
+        "delay_str": "8.9秒",
+        "angle_xy": 260.9097230791777,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.406239930219671,
+        "delay_str": "8.4秒",
+        "angle_xy": 260.34010692155766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 69,
+        "delay_s": 8.406239930219671,
+        "delay_str": "8.4秒",
+        "angle_xy": 260.34010692155766,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.232472911877812,
+        "delay_str": "8.2秒",
+        "angle_xy": 260.13419305691565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 69,
+        "delay_s": 8.232472911877812,
+        "delay_str": "8.2秒",
+        "angle_xy": 260.13419305691565,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.058816808270432,
+        "delay_str": "8.1秒",
+        "angle_xy": 259.9194020124577
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 69,
+        "delay_s": 8.058816808270432,
+        "delay_str": "8.1秒",
+        "angle_xy": 259.9194020124577,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.88527894736768,
+        "delay_str": "7.9秒",
+        "angle_xy": 259.695153531234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 69,
+        "delay_s": 7.88527894736768,
+        "delay_str": "7.9秒",
+        "angle_xy": 259.695153531234,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56597222247606,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 47,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.711867311515133,
+        "delay_str": "7.7秒",
+        "angle_xy": 259.46081627137175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56597222247606,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 47,
+        "position_y": 69,
+        "delay_s": 7.711867311515133,
+        "delay_str": "7.7秒",
+        "angle_xy": 259.46081627137175,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56680555581138,
+          36.315694444376106
+        ]
+      },
+      "properties": {
+        "pixel_x": 50,
+        "pixel_y": 69,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.192481020672181,
+        "delay_str": "7.2秒",
+        "angle_xy": 258.69006752597977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56680555581138,
+            36.315694444376106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 50,
+        "position_y": 69,
+        "delay_s": 7.192481020672181,
+        "delay_str": "7.2秒",
+        "angle_xy": 258.69006752597977,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56263888913475,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 35,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.826588939852083,
+        "delay_str": "9.8秒",
+        "angle_xy": 260.7066914006029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56263888913475,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 35,
+        "position_y": 70,
+        "delay_s": 9.826588939852083,
+        "delay_str": "9.8秒",
+        "angle_xy": 260.7066914006029,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.304963273884342,
+        "delay_str": "9.3秒",
+        "angle_xy": 260.1806993612421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 70,
+        "delay_s": 9.304963273884342,
+        "delay_str": "9.3秒",
+        "angle_xy": 260.1806993612421,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.131275589331958,
+        "delay_str": "9.1秒",
+        "angle_xy": 259.99202019855863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 70,
+        "delay_s": 9.131275589331958,
+        "delay_str": "9.1秒",
+        "angle_xy": 259.99202019855863,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.957690766732284,
+        "delay_str": "9.0秒",
+        "angle_xy": 259.7960262782683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 70,
+        "delay_s": 8.957690766732284,
+        "delay_str": "9.0秒",
+        "angle_xy": 259.7960262782683,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5643055558054,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 41,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.784214904050884,
+        "delay_str": "8.8秒",
+        "angle_xy": 259.59228868750995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5643055558054,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 41,
+        "position_y": 70,
+        "delay_s": 8.784214904050884,
+        "delay_str": "8.8秒",
+        "angle_xy": 259.59228868750995,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56458333358384,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 42,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.610854586670037,
+        "delay_str": "8.6秒",
+        "angle_xy": 259.38034472384487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56458333358384,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 42,
+        "position_y": 70,
+        "delay_s": 8.610854586670037,
+        "delay_str": "8.6秒",
+        "angle_xy": 259.38034472384487,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.437616936616696,
+        "delay_str": "8.4秒",
+        "angle_xy": 259.1596945456694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 70,
+        "delay_s": 8.437616936616696,
+        "delay_str": "8.4秒",
+        "angle_xy": 259.1596945456694,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.264509667818366,
+        "delay_str": "8.3秒",
+        "angle_xy": 258.92979742206063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 70,
+        "delay_s": 8.264509667818366,
+        "delay_str": "8.3秒",
+        "angle_xy": 258.92979742206063,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.091541148256205,
+        "delay_str": "8.1秒",
+        "angle_xy": 258.69006752597977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 70,
+        "delay_s": 8.091541148256205,
+        "delay_str": "8.1秒",
+        "angle_xy": 258.69006752597977,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56652777803293,
+          36.31541666659734
+        ]
+      },
+      "properties": {
+        "pixel_x": 49,
+        "pixel_y": 70,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.4012490035494505,
+        "delay_str": "7.4秒",
+        "angle_xy": 257.61924307119284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56652777803293,
+            36.31541666659734
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 49,
+        "position_y": 70,
+        "delay_s": 7.4012490035494505,
+        "delay_str": "7.4秒",
+        "angle_xy": 257.61924307119284,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56263888913475,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 35,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.8565986842096,
+        "delay_str": "9.9秒",
+        "angle_xy": 259.695153531234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56263888913475,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 35,
+        "position_y": 71,
+        "delay_s": 9.8565986842096,
+        "delay_str": "9.9秒",
+        "angle_xy": 259.695153531234,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.683173917126673,
+        "delay_str": "9.7秒",
+        "angle_xy": 259.5085229876684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 71,
+        "delay_s": 9.683173917126673,
+        "delay_str": "9.7秒",
+        "angle_xy": 259.5085229876684,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.509855636189226,
+        "delay_str": "9.5秒",
+        "angle_xy": 259.3150875999973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 71,
+        "delay_s": 9.509855636189226,
+        "delay_str": "9.5秒",
+        "angle_xy": 259.3150875999973,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.336649771576285,
+        "delay_str": "9.3秒",
+        "angle_xy": 259.1144729453413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 71,
+        "delay_s": 9.336649771576285,
+        "delay_str": "9.3秒",
+        "angle_xy": 259.1144729453413,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.163562697830402,
+        "delay_str": "9.2秒",
+        "angle_xy": 258.9062769884422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 71,
+        "delay_s": 9.163562697830402,
+        "delay_str": "9.2秒",
+        "angle_xy": 258.9062769884422,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.990601275840227,
+        "delay_str": "9.0秒",
+        "angle_xy": 258.69006752597977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 71,
+        "delay_s": 8.990601275840227,
+        "delay_str": "9.0秒",
+        "angle_xy": 258.69006752597977,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5643055558054,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 41,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.817772899620902,
+        "delay_str": "8.8秒",
+        "angle_xy": 258.4653793463553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5643055558054,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 41,
+        "position_y": 71,
+        "delay_s": 8.817772899620902,
+        "delay_str": "8.8秒",
+        "angle_xy": 258.4653793463553,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56458333358384,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 42,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.645085548536551,
+        "delay_str": "8.6秒",
+        "angle_xy": 258.23171106797935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56458333358384,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 42,
+        "position_y": 71,
+        "delay_s": 8.645085548536551,
+        "delay_str": "8.6秒",
+        "angle_xy": 258.23171106797935,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.472547845708515,
+        "delay_str": "8.5秒",
+        "angle_xy": 257.9885216136346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 71,
+        "delay_s": 8.472547845708515,
+        "delay_str": "8.5秒",
+        "angle_xy": 257.9885216136346,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.300169123469853,
+        "delay_str": "8.3秒",
+        "angle_xy": 257.7352262721076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 71,
+        "delay_s": 8.300169123469853,
+        "delay_str": "8.3秒",
+        "angle_xy": 257.7352262721076,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.127959496864046,
+        "delay_str": "8.1秒",
+        "angle_xy": 257.4711922908485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 71,
+        "delay_s": 8.127959496864046,
+        "delay_str": "8.1秒",
+        "angle_xy": 257.4711922908485,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56625000025448,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 48,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.612459894180693,
+        "delay_str": "7.6秒",
+        "angle_xy": 256.6075022462489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56625000025448,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 48,
+        "position_y": 71,
+        "delay_s": 7.612459894180693,
+        "delay_str": "7.6秒",
+        "angle_xy": 256.6075022462489,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56652777803293,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 49,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.441046582388853,
+        "delay_str": "7.4秒",
+        "angle_xy": 256.2930389959202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56652777803293,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 49,
+        "position_y": 71,
+        "delay_s": 7.441046582388853,
+        "delay_str": "7.4秒",
+        "angle_xy": 256.2930389959202,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56680555581138,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 50,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.269867981341197,
+        "delay_str": "7.3秒",
+        "angle_xy": 255.96375653207352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56680555581138,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 50,
+        "position_y": 71,
+        "delay_s": 7.269867981341197,
+        "delay_str": "7.3秒",
+        "angle_xy": 255.96375653207352,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56708333358984,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 51,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.098941069980567,
+        "delay_str": "7.1秒",
+        "angle_xy": 255.6186054089094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56708333358984,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 51,
+        "position_y": 71,
+        "delay_s": 7.098941069980567,
+        "delay_str": "7.1秒",
+        "angle_xy": 255.6186054089094,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56736111136826,
+          36.31513888881859
+        ]
+      },
+      "properties": {
+        "pixel_x": 52,
+        "pixel_y": 71,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 6.9282844765541745,
+        "delay_str": "6.9秒",
+        "angle_xy": 255.25643716352926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56736111136826,
+            36.31513888881859
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 52,
+        "position_y": 71,
+        "delay_s": 6.9282844765541745,
+        "delay_str": "6.9秒",
+        "angle_xy": 255.25643716352926,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56263888913475,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 35,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.889661403424249,
+        "delay_str": "9.9秒",
+        "angle_xy": 258.69006752597977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56263888913475,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 35,
+        "position_y": 72,
+        "delay_s": 9.889661403424249,
+        "delay_str": "9.9秒",
+        "angle_xy": 258.69006752597977,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.716826753737003,
+        "delay_str": "9.7秒",
+        "angle_xy": 258.486168815513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 72,
+        "delay_s": 9.716826753737003,
+        "delay_str": "9.7秒",
+        "angle_xy": 258.486168815513,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.544119617543407,
+        "delay_str": "9.5秒",
+        "angle_xy": 258.2748879848349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 72,
+        "delay_s": 9.544119617543407,
+        "delay_str": "9.5秒",
+        "angle_xy": 258.2748879848349,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.371547044639556,
+        "delay_str": "9.4秒",
+        "angle_xy": 258.05582281155364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 72,
+        "delay_s": 9.371547044639556,
+        "delay_str": "9.4秒",
+        "angle_xy": 258.05582281155364,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.199116608125244,
+        "delay_str": "9.2秒",
+        "angle_xy": 257.82854179141253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 72,
+        "delay_s": 9.199116608125244,
+        "delay_str": "9.2秒",
+        "angle_xy": 257.82854179141253,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.02683645326295,
+        "delay_str": "9.0秒",
+        "angle_xy": 257.59258147259925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 72,
+        "delay_s": 9.02683645326295,
+        "delay_str": "9.0秒",
+        "angle_xy": 257.59258147259925,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5643055558054,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 41,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.854715351839703,
+        "delay_str": "8.9秒",
+        "angle_xy": 257.347443499442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5643055558054,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 41,
+        "position_y": 72,
+        "delay_s": 8.854715351839703,
+        "delay_str": "8.9秒",
+        "angle_xy": 257.347443499442,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56458333358384,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 42,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.68276276275774,
+        "delay_str": "8.7秒",
+        "angle_xy": 257.09259132873416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56458333358384,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 42,
+        "position_y": 72,
+        "delay_s": 8.68276276275774,
+        "delay_str": "8.7秒",
+        "angle_xy": 257.09259132873416,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.510988899689442,
+        "delay_str": "8.5秒",
+        "angle_xy": 256.8274465766731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 72,
+        "delay_s": 8.510988899689442,
+        "delay_str": "8.5秒",
+        "angle_xy": 256.8274465766731,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.339404806760447,
+        "delay_str": "8.3秒",
+        "angle_xy": 256.5513849483135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 72,
+        "delay_s": 8.339404806760447,
+        "delay_str": "8.3秒",
+        "angle_xy": 256.5513849483135,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.168022443375099,
+        "delay_str": "8.2秒",
+        "angle_xy": 256.26373169437744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 72,
+        "delay_s": 8.168022443375099,
+        "delay_str": "8.2秒",
+        "angle_xy": 256.26373169437744,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.996854779475318,
+        "delay_str": "8.0秒",
+        "angle_xy": 255.96375653207352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 72,
+        "delay_s": 7.996854779475318,
+        "delay_str": "8.0秒",
+        "angle_xy": 255.96375653207352,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56680555581138,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 50,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.3146322887037085,
+        "delay_str": "7.3秒",
+        "angle_xy": 254.62374875117382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56680555581138,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 50,
+        "position_y": 72,
+        "delay_s": 7.3146322887037085,
+        "delay_str": "7.3秒",
+        "angle_xy": 254.62374875117382,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56708333358984,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 51,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 7.144776369339614,
+        "delay_str": "7.1秒",
+        "angle_xy": 254.24882633654698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56708333358984,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 51,
+        "position_y": 72,
+        "delay_s": 7.144776369339614,
+        "delay_str": "7.1秒",
+        "angle_xy": 254.24882633654698,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56736111136826,
+          36.314861111039825
+        ]
+      },
+      "properties": {
+        "pixel_x": 52,
+        "pixel_y": 72,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 6.975241274743007,
+        "delay_str": "7.0秒",
+        "angle_xy": 253.85566121971652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56736111136826,
+            36.314861111039825
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 52,
+        "position_y": 72,
+        "delay_s": 6.975241274743007,
+        "delay_str": "7.0秒",
+        "angle_xy": 253.85566121971652,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56263888913475,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 35,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.925746589112276,
+        "delay_str": "9.9秒",
+        "angle_xy": 257.69198418257207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56263888913475,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 35,
+        "position_y": 73,
+        "delay_s": 9.925746589112276,
+        "delay_str": "9.9秒",
+        "angle_xy": 257.69198418257207,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.753551396236855,
+        "delay_str": "9.8秒",
+        "angle_xy": 257.4711922908485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 73,
+        "delay_s": 9.753551396236855,
+        "delay_str": "9.8秒",
+        "angle_xy": 257.4711922908485,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.581506246455806,
+        "delay_str": "9.6秒",
+        "angle_xy": 257.2424678391233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 73,
+        "delay_s": 9.581506246455806,
+        "delay_str": "9.6秒",
+        "angle_xy": 257.2424678391233,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.409619369920714,
+        "delay_str": "9.4秒",
+        "angle_xy": 257.0053832080835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 73,
+        "delay_s": 9.409619369920714,
+        "delay_str": "9.4秒",
+        "angle_xy": 257.0053832080835,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.237899601466797,
+        "delay_str": "9.2秒",
+        "angle_xy": 256.7594800848128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 73,
+        "delay_s": 9.237899601466797,
+        "delay_str": "9.2秒",
+        "angle_xy": 256.7594800848128,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.06635643634484,
+        "delay_str": "9.1秒",
+        "angle_xy": 256.50426671920417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 73,
+        "delay_s": 9.06635643634484,
+        "delay_str": "9.1秒",
+        "angle_xy": 256.50426671920417,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5643055558054,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 41,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.895000092130434,
+        "delay_str": "8.9秒",
+        "angle_xy": 256.2392148882088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5643055558054,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 41,
+        "position_y": 73,
+        "delay_s": 8.895000092130434,
+        "delay_str": "8.9秒",
+        "angle_xy": 256.2392148882088,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.38216649846052,
+        "delay_str": "8.4秒",
+        "angle_xy": 255.37912601136833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 73,
+        "delay_s": 8.38216649846052,
+        "delay_str": "8.4秒",
+        "angle_xy": 255.37912601136833,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.211676644411543,
+        "delay_str": "8.2秒",
+        "angle_xy": 255.06858282186244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 73,
+        "delay_s": 8.211676644411543,
+        "delay_str": "8.2秒",
+        "angle_xy": 255.06858282186244,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.041438244550033,
+        "delay_str": "8.0秒",
+        "angle_xy": 254.74488129694222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 73,
+        "delay_s": 8.041438244550033,
+        "delay_str": "8.0秒",
+        "angle_xy": 254.74488129694222,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5676388891467,
+          36.31458333326106
+        ]
+      },
+      "properties": {
+        "pixel_x": 53,
+        "pixel_y": 73,
+        "name": "Reflection Point",
+        "cluster": 14,
+        "delay_s": 6.858379736851529,
+        "delay_str": "6.9秒",
+        "angle_xy": 252.030860259843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5676388891467,
+            36.31458333326106
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 53,
+        "position_y": 73,
+        "delay_s": 6.858379736851529,
+        "delay_str": "6.9秒",
+        "angle_xy": 252.030860259843,
+        "cluster": 14,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56263888913475,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 35,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.964821405938316,
+        "delay_str": "10.0秒",
+        "angle_xy": 256.7014296695057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56263888913475,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 35,
+        "position_y": 74,
+        "delay_s": 9.964821405938316,
+        "delay_str": "10.0秒",
+        "angle_xy": 256.7014296695057,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.793313287136606,
+        "delay_str": "9.8秒",
+        "angle_xy": 256.46414363086575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 74,
+        "delay_s": 9.793313287136606,
+        "delay_str": "9.8秒",
+        "angle_xy": 256.46414363086575,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.621979123436306,
+        "delay_str": "9.6秒",
+        "angle_xy": 256.21840276434637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 74,
+        "delay_s": 9.621979123436306,
+        "delay_str": "9.6秒",
+        "angle_xy": 256.21840276434637,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.450828375743557,
+        "delay_str": "9.5秒",
+        "angle_xy": 255.96375653207352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 74,
+        "delay_s": 9.450828375743557,
+        "delay_str": "9.5秒",
+        "angle_xy": 255.96375653207352,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.279871192411719,
+        "delay_str": "9.3秒",
+        "angle_xy": 255.6997225508144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 74,
+        "delay_s": 9.279871192411719,
+        "delay_str": "9.3秒",
+        "angle_xy": 255.6997225508144,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.428400530876925,
+        "delay_str": "8.4秒",
+        "angle_xy": 254.21924669048462
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 74,
+        "delay_s": 8.428400530876925,
+        "delay_str": "8.4秒",
+        "angle_xy": 254.21924669048462,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.258865152873398,
+        "delay_str": "8.3秒",
+        "angle_xy": 253.8865817669107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 74,
+        "delay_s": 8.258865152873398,
+        "delay_str": "8.3秒",
+        "angle_xy": 253.8865817669107,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.089619851506276,
+        "delay_str": "8.1秒",
+        "angle_xy": 253.53998518795996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 74,
+        "delay_s": 8.089619851506276,
+        "delay_str": "8.1秒",
+        "angle_xy": 253.53998518795996,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56708333358984,
+          36.3143055554823
+        ]
+      },
+      "properties": {
+        "pixel_x": 51,
+        "pixel_y": 74,
+        "name": "Reflection Point",
+        "cluster": 15,
+        "delay_s": 7.24845447980057,
+        "delay_str": "7.2秒",
+        "angle_xy": 251.56505117707798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56708333358984,
+            36.3143055554823
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 51,
+        "position_y": 74,
+        "delay_s": 7.24845447980057,
+        "delay_str": "7.2秒",
+        "angle_xy": 251.56505117707798,
+        "cluster": 15,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.665499478914393,
+        "delay_str": "9.7秒",
+        "angle_xy": 255.20323775494265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 75,
+        "delay_s": 9.665499478914393,
+        "delay_str": "9.7秒",
+        "angle_xy": 255.20323775494265,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.495133222488766,
+        "delay_str": "9.5秒",
+        "angle_xy": 254.9315118405078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 75,
+        "delay_s": 9.495133222488766,
+        "delay_str": "9.5秒",
+        "angle_xy": 254.9315118405078,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56458333358384,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 42,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.816009873931058,
+        "delay_str": "8.8秒",
+        "angle_xy": 253.73979529168804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56458333358384,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 42,
+        "position_y": 75,
+        "delay_s": 8.816009873931058,
+        "delay_str": "8.8秒",
+        "angle_xy": 253.73979529168804,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.646883424306958,
+        "delay_str": "8.6秒",
+        "angle_xy": 253.41266144307258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 75,
+        "delay_s": 8.646883424306958,
+        "delay_str": "8.6秒",
+        "angle_xy": 253.41266144307258,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.478050096215327,
+        "delay_str": "8.5秒",
+        "angle_xy": 253.07248693585296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 75,
+        "delay_s": 8.478050096215327,
+        "delay_str": "8.5秒",
+        "angle_xy": 253.07248693585296,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.309527756641579,
+        "delay_str": "8.3秒",
+        "angle_xy": 252.71850162818336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 75,
+        "delay_s": 8.309527756641579,
+        "delay_str": "8.3秒",
+        "angle_xy": 252.71850162818336,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.141335717616288,
+        "delay_str": "8.1秒",
+        "angle_xy": 252.34987578006988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 75,
+        "delay_s": 8.141335717616288,
+        "delay_str": "8.1秒",
+        "angle_xy": 252.34987578006988,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56680555581138,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 50,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 15,
+        "delay_s": 7.472316001205004,
+        "delay_str": "7.5秒",
+        "angle_xy": 250.70995378081125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56680555581138,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 50,
+        "position_y": 75,
+        "delay_s": 7.472316001205004,
+        "delay_str": "7.5秒",
+        "angle_xy": 250.70995378081125,
+        "cluster": 15,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56708333358984,
+          36.314027777703544
+        ]
+      },
+      "properties": {
+        "pixel_x": 51,
+        "pixel_y": 75,
+        "name": "Reflection Point",
+        "cluster": 15,
+        "delay_s": 7.306126899444823,
+        "delay_str": "7.3秒",
+        "angle_xy": 250.25316339457387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56708333358984,
+            36.314027777703544
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 51,
+        "position_y": 75,
+        "delay_s": 7.306126899444823,
+        "delay_str": "7.3秒",
+        "angle_xy": 250.25316339457387,
+        "cluster": 15,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56291666691317,
+          36.31374999992478
+        ]
+      },
+      "properties": {
+        "pixel_x": 36,
+        "pixel_y": 76,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.881799361158109,
+        "delay_str": "9.9秒",
+        "angle_xy": 254.47588900324575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56291666691317,
+            36.31374999992478
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 36,
+        "position_y": 76,
+        "delay_s": 9.881799361158109,
+        "delay_str": "9.9秒",
+        "angle_xy": 254.47588900324575,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56319444469162,
+          36.31374999992478
+        ]
+      },
+      "properties": {
+        "pixel_x": 37,
+        "pixel_y": 76,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 9.712026345002494,
+        "delay_str": "9.7秒",
+        "angle_xy": 254.19748604606445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56319444469162,
+            36.31374999992478
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 37,
+        "position_y": 76,
+        "delay_s": 9.712026345002494,
+        "delay_str": "9.7秒",
+        "angle_xy": 254.19748604606445,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56458333358384,
+          36.31374999992478
+        ]
+      },
+      "properties": {
+        "pixel_x": 42,
+        "pixel_y": 76,
+        "name": "Reflection Point",
+        "cluster": 11,
+        "delay_s": 8.866995299783238,
+        "delay_str": "8.9秒",
+        "angle_xy": 252.64597536373867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56458333358384,
+            36.31374999992478
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 42,
+        "position_y": 76,
+        "delay_s": 8.866995299783238,
+        "delay_str": "8.9秒",
+        "angle_xy": 252.64597536373867,
+        "cluster": 11,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56652777803293,
+          36.31374999992478
+        ]
+      },
+      "properties": {
+        "pixel_x": 49,
+        "pixel_y": 76,
+        "name": "Reflection Point",
+        "cluster": 15,
+        "delay_s": 7.697744848080075,
+        "delay_str": "7.7秒",
+        "angle_xy": 249.90476880809518
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56652777803293,
+            36.31374999992478
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 49,
+        "position_y": 76,
+        "delay_s": 7.697744848080075,
+        "delay_str": "7.7秒",
+        "angle_xy": 249.90476880809518,
+        "cluster": 15,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56680555581138,
+          36.31374999992478
+        ]
+      },
+      "properties": {
+        "pixel_x": 50,
+        "pixel_y": 76,
+        "name": "Reflection Point",
+        "cluster": 15,
+        "delay_s": 7.532402138162329,
+        "delay_str": "7.5秒",
+        "angle_xy": 249.44395478041653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56680555581138,
+            36.31374999992478
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 50,
+        "position_y": 76,
+        "delay_s": 7.532402138162329,
+        "delay_str": "7.5秒",
+        "angle_xy": 249.44395478041653,
+        "cluster": 15,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.31347222214602
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 77,
+        "name": "Reflection Point",
+        "cluster": 16,
+        "delay_s": 8.255099998744337,
+        "delay_str": "8.3秒",
+        "angle_xy": 250.01689347810003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.31347222214602
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 77,
+        "delay_s": 8.255099998744337,
+        "delay_str": "8.3秒",
+        "angle_xy": 250.01689347810003,
+        "cluster": 16,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56652777803293,
+          36.31347222214602
+        ]
+      },
+      "properties": {
+        "pixel_x": 49,
+        "pixel_y": 77,
+        "name": "Reflection Point",
+        "cluster": 15,
+        "delay_s": 7.760092068999518,
+        "delay_str": "7.8秒",
+        "angle_xy": 248.68208772453846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56652777803293,
+            36.31347222214602
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 49,
+        "position_y": 77,
+        "delay_s": 7.760092068999518,
+        "delay_str": "7.8秒",
+        "angle_xy": 248.68208772453846,
+        "cluster": 15,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56680555581138,
+          36.31347222214602
+        ]
+      },
+      "properties": {
+        "pixel_x": 50,
+        "pixel_y": 77,
+        "name": "Reflection Point",
+        "cluster": 15,
+        "delay_s": 7.596106577991013,
+        "delay_str": "7.6秒",
+        "angle_xy": 248.19859051364818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56680555581138,
+            36.31347222214602
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 50,
+        "position_y": 77,
+        "delay_s": 7.596106577991013,
+        "delay_str": "7.6秒",
+        "angle_xy": 248.19859051364818,
+        "cluster": 15,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.313194444367255
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 78,
+        "name": "Reflection Point",
+        "cluster": 17,
+        "delay_s": 8.646883424306958,
+        "delay_str": "8.6秒",
+        "angle_xy": 249.7174409110834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.313194444367255
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 78,
+        "delay_s": 8.646883424306958,
+        "delay_str": "8.6秒",
+        "angle_xy": 249.7174409110834,
+        "cluster": 17,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56597222247606,
+          36.313194444367255
+        ]
+      },
+      "properties": {
+        "pixel_x": 47,
+        "pixel_y": 78,
+        "name": "Reflection Point",
+        "cluster": 18,
+        "delay_s": 8.152783582259996,
+        "delay_str": "8.2秒",
+        "angle_xy": 248.42869280874538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56597222247606,
+            36.313194444367255
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 47,
+        "position_y": 78,
+        "delay_s": 8.152783582259996,
+        "delay_str": "8.2秒",
+        "angle_xy": 248.42869280874538,
+        "cluster": 18,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.3129166665885
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 79,
+        "name": "Reflection Point",
+        "cluster": 19,
+        "delay_s": 9.702418402325737,
+        "delay_str": "9.7秒",
+        "angle_xy": 250.9065079995144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.3129166665885
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 79,
+        "delay_s": 9.702418402325737,
+        "delay_str": "9.7秒",
+        "angle_xy": 250.9065079995144,
+        "cluster": 19,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.3129166665885
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 79,
+        "name": "Reflection Point",
+        "cluster": 20,
+        "delay_s": 8.54561990023989,
+        "delay_str": "8.5秒",
+        "angle_xy": 248.19859051364818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.3129166665885
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 79,
+        "delay_s": 8.54561990023989,
+        "delay_str": "8.5秒",
+        "angle_xy": 248.19859051364818,
+        "cluster": 20,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56347222247007,
+          36.31263888880974
+        ]
+      },
+      "properties": {
+        "pixel_x": 38,
+        "pixel_y": 80,
+        "name": "Reflection Point",
+        "cluster": 19,
+        "delay_s": 9.761516731493543,
+        "delay_str": "9.8秒",
+        "angle_xy": 249.92847413546127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56347222247007,
+            36.31263888880974
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 38,
+        "position_y": 80,
+        "delay_s": 9.761516731493543,
+        "delay_str": "9.8秒",
+        "angle_xy": 249.92847413546127,
+        "cluster": 19,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56541666691916,
+          36.31263888880974
+        ]
+      },
+      "properties": {
+        "pixel_x": 45,
+        "pixel_y": 80,
+        "name": "Reflection Point",
+        "cluster": 20,
+        "delay_s": 8.612659608089437,
+        "delay_str": "8.6秒",
+        "angle_xy": 247.10944834375167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56541666691916,
+            36.31263888880974
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 45,
+        "position_y": 80,
+        "delay_s": 8.612659608089437,
+        "delay_str": "8.6秒",
+        "angle_xy": 247.10944834375167,
+        "cluster": 20,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5656944446976,
+          36.31263888880974
+        ]
+      },
+      "properties": {
+        "pixel_x": 46,
+        "pixel_y": 80,
+        "name": "Reflection Point",
+        "cluster": 20,
+        "delay_s": 8.450503017770789,
+        "delay_str": "8.5秒",
+        "angle_xy": 246.644435140714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5656944446976,
+            36.31263888880974
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 46,
+        "position_y": 80,
+        "delay_s": 8.450503017770789,
+        "delay_str": "8.5秒",
+        "angle_xy": 246.644435140714,
+        "cluster": 20,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56597222247606,
+          36.31263888880974
+        ]
+      },
+      "properties": {
+        "pixel_x": 47,
+        "pixel_y": 80,
+        "name": "Reflection Point",
+        "cluster": 20,
+        "delay_s": 8.288924816040314,
+        "delay_str": "8.3秒",
+        "angle_xy": 246.16125981682828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56597222247606,
+            36.31263888880974
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 47,
+        "position_y": 80,
+        "delay_s": 8.288924816040314,
+        "delay_str": "8.3秒",
+        "angle_xy": 246.16125981682828,
+        "cluster": 20,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56375000024852,
+          36.312361111030974
+        ]
+      },
+      "properties": {
+        "pixel_x": 39,
+        "pixel_y": 81,
+        "name": "Reflection Point",
+        "cluster": 19,
+        "delay_s": 9.659064391996711,
+        "delay_str": "9.7秒",
+        "angle_xy": 248.58703052512823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56375000024852,
+            36.312361111030974
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 39,
+        "position_y": 81,
+        "delay_s": 9.659064391996711,
+        "delay_str": "9.7秒",
+        "angle_xy": 248.58703052512823,
+        "cluster": 19,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.312361111030974
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 81,
+        "name": "Reflection Point",
+        "cluster": 19,
+        "delay_s": 9.495133222488766,
+        "delay_str": "9.5秒",
+        "angle_xy": 248.19859051364818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.312361111030974
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 81,
+        "delay_s": 9.495133222488766,
+        "delay_str": "9.5秒",
+        "angle_xy": 248.19859051364818,
+        "cluster": 19,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5643055558054,
+          36.312361111030974
+        ]
+      },
+      "properties": {
+        "pixel_x": 41,
+        "pixel_y": 81,
+        "name": "Reflection Point",
+        "cluster": 19,
+        "delay_s": 9.331653793457985,
+        "delay_str": "9.3秒",
+        "angle_xy": 247.79652146794263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5643055558054,
+            36.312361111030974
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 41,
+        "position_y": 81,
+        "delay_s": 9.331653793457985,
+        "delay_str": "9.3秒",
+        "angle_xy": 247.79652146794263,
+        "cluster": 19,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56402777802694,
+          36.31208333325221
+        ]
+      },
+      "properties": {
+        "pixel_x": 40,
+        "pixel_y": 82,
+        "name": "Reflection Point",
+        "cluster": 19,
+        "delay_s": 9.56201841696641,
+        "delay_str": "9.6秒",
+        "angle_xy": 247.21759426951832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56402777802694,
+            36.31208333325221
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 40,
+        "position_y": 82,
+        "delay_s": 9.56201841696641,
+        "delay_str": "9.6秒",
+        "angle_xy": 247.21759426951832,
+        "cluster": 19,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5643055558054,
+          36.31208333325221
+        ]
+      },
+      "properties": {
+        "pixel_x": 41,
+        "pixel_y": 82,
+        "name": "Reflection Point",
+        "cluster": 19,
+        "delay_s": 9.399702325848075,
+        "delay_str": "9.4秒",
+        "angle_xy": 246.80140948635182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5643055558054,
+            36.31208333325221
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 41,
+        "position_y": 82,
+        "delay_s": 9.399702325848075,
+        "delay_str": "9.4秒",
+        "angle_xy": 246.80140948635182,
+        "cluster": 19,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5648611113623,
+          36.31152777769469
+        ]
+      },
+      "properties": {
+        "pixel_x": 43,
+        "pixel_y": 84,
+        "name": "Reflection Point",
+        "cluster": 21,
+        "delay_s": 9.226113339999033,
+        "delay_str": "9.2秒",
+        "angle_xy": 243.92464441605125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5648611113623,
+            36.31152777769469
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 43,
+        "position_y": 84,
+        "delay_s": 9.226113339999033,
+        "delay_str": "9.2秒",
+        "angle_xy": 243.92464441605125,
+        "cluster": 21,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31152777769469
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 84,
+        "name": "Reflection Point",
+        "cluster": 21,
+        "delay_s": 9.06807078947283,
+        "delay_str": "9.1秒",
+        "angle_xy": 243.43494882292202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31152777769469
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 84,
+        "delay_s": 9.06807078947283,
+        "delay_str": "9.1秒",
+        "angle_xy": 243.43494882292202,
+        "cluster": 21,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56458333358384,
+          36.31124999991593
+        ]
+      },
+      "properties": {
+        "pixel_x": 42,
+        "pixel_y": 85,
+        "name": "Reflection Point",
+        "cluster": 21,
+        "delay_s": 9.462334736841214,
+        "delay_str": "9.5秒",
+        "angle_xy": 243.43494882292202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.56458333358384,
+            36.31124999991593
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 42,
+        "position_y": 85,
+        "delay_s": 9.462334736841214,
+        "delay_str": "9.5秒",
+        "angle_xy": 243.43494882292202,
+        "cluster": 21,
+        "name": "Echo Trace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.5651388891407,
+          36.31097222213717
+        ]
+      },
+      "properties": {
+        "pixel_x": 44,
+        "pixel_y": 86,
+        "name": "Reflection Point",
+        "cluster": 21,
+        "delay_s": 9.231166437597407,
+        "delay_str": "9.2秒",
+        "angle_xy": 241.47688139368796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.5779166669491,
+            36.317916666606195
+          ],
+          [
+            137.5651388891407,
+            36.31097222213717
+          ]
+        ]
+      },
+      "properties": {
+        "source_x": 90.0,
+        "source_y": 61.0,
+        "position_x": 44,
+        "position_y": 86,
+        "delay_s": 9.231166437597407,
+        "delay_str": "9.2秒",
+        "angle_xy": 241.47688139368796,
+        "cluster": 21,
+        "name": "Echo Trace"
+      }
+    }
+  ]
+}
